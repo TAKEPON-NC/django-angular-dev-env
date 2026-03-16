@@ -1,0 +1,22 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+.env
+venv/
+env/
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log
+yarn-error.log
+
+# IDEs and OS
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+Thumbs.db
